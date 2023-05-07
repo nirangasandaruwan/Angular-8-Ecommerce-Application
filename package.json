@@ -24,7 +24,7 @@
     "angular5-data-table": "^1.0.3",
     "bootstrap": "^4.3.1",
     "firebase": "^7.3.0",
-    "firebase-tools": "^7.7.0",
+    "firebase-tools": "^11.30.0",
     "g": "^2.0.1",
     "jquery": "^3.4.1",
     "ng2-validation": "^4.2.0",
